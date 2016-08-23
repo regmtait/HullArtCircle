@@ -7,3 +7,5 @@ _drafts
 *.save
 *.css.map
 notes.md
+.lock
+_site
