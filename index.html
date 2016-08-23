@@ -26,7 +26,8 @@ nav-class: home
 <div class="wrapper">
 
 <div class="callout callout-exhibition">
-{% for exhibitionsactive in site.exhibitionsactive limit:1 sort: 'date' %}
+{% assign items = site.exhibitions | sort: 'date' %}
+{% for exhibitionsactive in site.exhibitionsactive limit:1 %}
 <h2>{{ exhibitionsactive.title }}</h2>
 <p class="post-date">{{ exhibitionsactive.dates }}</p>
 <p>{{ exhibitionsactive.summary }}</p>

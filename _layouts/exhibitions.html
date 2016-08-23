@@ -14,8 +14,8 @@
   alt="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
 <section class="cf exhibitions exhibitions-current">
-
-{% for exhibitionsactive in site.exhibitionsactive limit:9 sort:date %}
+{% assign items = site.exhibitionsactive | sort: 'date' %}
+{% for exhibitionsactive in site.exhibitionsactive limit:9 %}
   <div class="wrapper wrapper-wide"> 
     <h1 class="cf">{{ exhibitionsactive.title }}</h1>
     <div class="exhib-active-1">
@@ -36,7 +36,8 @@
 <section class="exhibitions exhibitions-past cf">
   <div class="wrapper wrapper-wide cf">
   <h2>Past Exhibitions</h2>
-{% for exhibitions in site.exhibitions reversed limit:9 sort:date %}
+  {% assign items = site.exhibitions | sort: 'date' %}
+  {% for exhibitions in site.exhibitions reversed limit:9 %}
     <div class="exhibition">
       <h3>{{ exhibitions.title }}</h3>
       <p class="exhibition-date">{{ exhibitions.dates }}</p>
