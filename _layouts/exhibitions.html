@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.nav-class }}">
+
+{% include header.html %}
+
+<img class="main-image"
+  title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" 
+  src="/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.png{% endif %}"
+  srcset="{% if page.bannerpicsmall %}/hac/{{ page.bannerpicsmall }} 640w, {% endif %}/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.jpg{% endif %} 1000w"
+  alt="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
+<section class="cf exhibitions exhibitions-current">
+
+{% for exhibitionsactive in site.exhibitionsactive limit:9 sort:date %}
+  <div class="wrapper wrapper-wide"> 
+    <h1 class="cf">{{ exhibitionsactive.title }}</h1>
+    <div class="exhib-active-1">
+      <p class="exhibition-date">{{ exhibitionsactive.dates }}</p>
+      <p class="description">{{ exhibitionsactive.summary }}</p>
+    </div>
+    <div class="exhib-active-2">
+    {{ exhibitionsactive.content }}
+    </div>
+    <div class="exhib-active-3">
+      <p>{{ exhibitionsactive.times }}</p>
+    </div>
+  </div>
+  {% endfor %}
+
+</section>
+
+<section class="exhibitions exhibitions-past cf">
+  <div class="wrapper wrapper-wide cf">
+  <h2>Past Exhibitions</h2>
+{% for exhibitions in site.exhibitions reversed limit:9 sort:date %}
+    <div class="exhibition">
+      <h3>{{ exhibitions.title }}</h3>
+      <p class="exhibition-date">{{ exhibitions.dates }}</p>
+      <p>{{ exhibitions.summary }}</p>  
+	 </div>
+{% endfor %}
+  </div>
+</section>
+
+<div class="wrapper">
+  <div class="page-content">
+  {{ content }}
+  </div>
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>

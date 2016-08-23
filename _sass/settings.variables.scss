@@ -1,0 +1,42 @@
+/*------------------------------------*\
+    #COLOURS
+\*------------------------------------*/
+
+//$themepath: '/hac';
+$theme1: #41A9A1; // green
+$color-main: #434D4C;
+
+$color-light: #fff;
+$color-grey: #596564;
+$color-grey-dark: #434D4C;
+$color-grey-light: #D9DDDD;
+
+$color-link-dark: #B0b4b4;
+$strip-link: $theme1;
+
+$dark-bg-link: $color-grey-light;
+
+$grey-text: #9E9E9E;
+
+// callouts
+
+$callout-color: #fff;
+$callout-bg1: $color-grey;
+
+// layout
+
+$max-width: 44rem;
+$max-width-wide: 48rem;
+
+// widths
+
+$width-small: 500px;
+$width-medium: 840px;
+$width-large: 1024px;
+$width-giant: 1200px;
+
+// paths
+
+//Usage: background-image: url(#{$themepath}/blockquote.png);
+//manually change the fonts path for now.
+$themepath: '/hac';

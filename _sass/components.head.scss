@@ -1,0 +1,51 @@
+/*------------------------------------*\
+    #PAGE-HEAD
+\*------------------------------------*/
+
+.site-header {
+	background: $color-grey-dark;
+	float: left;
+	width: 100%;
+}
+
+.hac-logo {
+	float:left;
+	width: 67px;
+	margin-top: 0.55rem;
+	margin-top: 0.7rem;
+	opacity: 0.6;
+}
+
+.main-image {
+	width: 100%;
+	height: auto;
+	float: left;
+	border-bottom: 5px solid $color-grey-light;
+}
+
+.logo-text {
+	display: inline-block;
+	margin-top: 1.2rem;
+	margin-bottom: 1.2rem;
+	margin-left: 0.5rem;
+	color: #fff;
+}
+
+.logo .logo-text  {transition: color 0.2s ease;}
+.logo:hover {
+	.logo-text {
+	color: $color-link-dark;
+	}
+}
+
+@media screen and (max-width: $width-small - 1px) {
+	.hac-logo {
+		width: 36px;
+		margin-top: 0.70rem;
+	}
+	.logo-text {
+		margin-top: 0.8rem;
+		margin-bottom: 0.6rem;
+		margin-left: 0.4rem;
+	}
+}

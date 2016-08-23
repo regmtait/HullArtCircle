@@ -1,0 +1,36 @@
+/*------------------------------------*\
+    #LINKS
+\*------------------------------------*/
+
+a {
+  background-color: transparent;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+a, a:visited {
+  color: $theme1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken($theme1, 10%);
+}
+
+a.strip-link {
+	color: #fff;
+	display: block;
+	text-align: center;
+	padding: 1rem;
+	background: $strip-link;
+	transition: background-color 0.3s ease;
+	font-size: 1.25rem;
+}
+a.strip-link:hover {
+	background: darken($strip-link, 10%);
+	}
+
+a:focus {outline:none;}

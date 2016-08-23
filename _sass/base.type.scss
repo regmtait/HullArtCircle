@@ -1,0 +1,282 @@
+/*------------------------------------*\
+    #TYPE + resets
+\*------------------------------------*/
+
+@font-face {
+    font-family: 'eb-garamond';
+    src: url('/fonts/ebgaramond-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+html {
+  height: 100%;
+  font-size: 20px;
+  background-color: $color-light;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  color: $color-main;
+  line-height: 1.4;
+  font-family: 'eb-garamond', Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  margin: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  padding-top: 1.25rem;
+  max-width: $max-width;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+h3 {font-size: 1.2rem;}
+
+p {
+  margin: 0 auto 1rem auto;
+}
+
+b,
+strong {
+  font-weight: normal;
+  color: #000;
+
+}
+
+p strong, li strong {
+  font-weight: normal;
+  color: #000;
+}
+
+ul, ol, article {
+  margin-bottom: 1rem;
+}
+
+abbr {
+  text-decoration: none;
+  border-bottom-width: 0;
+  line-height: 0;
+}
+
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+[hidden],
+template {
+  display: none;
+}
+
+pre {
+  overflow: auto;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+  border: none;
+  border-top: 1px solid $color-grey-light;
+}
+
+strike {
+  opacity: 0.8;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+small {
+  font-size: 80%;
+}
+
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+
+aside {
+  padding: 1em 1em 0.5em 1em;
+  margin-bottom: 1em;
+  background: lighten($color-grey-light, 10%);
+  h2, h3, h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid lighten($color-grey-light, 5%);
+    color: lighten($color-main, 15%);
+  }
+  ul, p {
+    margin-bottom: 0;
+    color: lighten($color-main, 10%);
+  }
+}
+
+::selection {
+  background: lighten($theme1, 42%);
+  color: $color-main;
+}
+
+::-moz-selection {
+  background: lighten($theme1, 42%);
+  color: $color-main;
+}
+
+p.post-meta {
+  color: #b0b0b0;
+}
+
+article ul {
+  max-width: 40em;
+  margin: 1rem auto;
+  li {list-style-type: circle;}
+}
+
+article ul, article ol {
+  padding-left: 0;
+  li {margin-left: 0;padding-left: 0;}
+}
+
+img {
+  border: 0;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+dfn {
+  font-style: italic;
+}
+
+figure {
+  margin: 1em 40px;
+}
+
+.page-content {
+  h1, h2, h3, h4, p, ul, ol {
+    max-width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+@media screen and (max-width: $width-medium) {
+.page-content {
+  // stops bullets hitting the edge
+  ol, ul {
+    padding-left: 1rem;}
+  }
+}
+
+ul.schedule {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  li {list-style: none;}
+}
+
+@media screen and (min-width: $width-small) {
+
+  .home h1 {
+    font-size: 1.6rem;
+    text-align: center;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5rem;
+  }
+
+ aside {
+  float: right;
+  max-width: 20em;
+  margin-left: 2em;
+ }
+
+
+}
+
+@media screen and (max-width: $width-small - 1px) {
+  html {
+    font-size: 18px;
+  }
+
+  body {
+    line-height: 1.2;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    margin-top: 0;
+    line-height: 1.6rem;
+    text-align: left;
+  }
+
+  ul {margin-top: 0rem;}
+
+  h2 {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+  h3 {
+      font-size: 1.1rem;
+  }
+}
+
+@media screen and (min-width: $width-large) {
+  font-size: 24px;
+}
+
+@media screen and (min-width: $width-giant) {
+  html {
+  }
+}

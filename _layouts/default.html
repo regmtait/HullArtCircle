@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.nav-class }}">
+
+{% include header.html %}
+
+<img class="main-image"
+	title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" 
+	src="/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.png{% endif %}"
+	srcset="{% if page.bannerpicsmall %}/hac/{{ page.bannerpicsmall }} 640w, {% endif %}/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.jpg{% endif %} 1000w"
+	alt="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
+<div class="page-content">
+ {{ content }}
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>

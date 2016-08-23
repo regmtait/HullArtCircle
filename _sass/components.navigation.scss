@@ -1,0 +1,70 @@
+/*------------------------------------*\
+    #NAV
+\*------------------------------------*/
+
+nav {
+	clear: both;
+	float: left;
+	width: 100%;
+	font-size: 1em;
+ul {
+	float: right;
+	padding-left: 0;
+	margin-top: 1.2rem;
+	li {
+		display: inline-block;
+		margin-left: 1.5rem;
+		a, a:visited {color: #fff;}
+		a { transition: color 0.2s ease;}
+		a:hover {color: $color-link-dark;}
+	}
+	li:first-child {margin-left: 0;}
+}
+}
+
+@media screen and (max-width: $width-medium - 1px) {
+
+.site-header {border-bottom: 3px solid $color-grey;}
+
+nav {
+	.logo {
+		display: block;
+	}
+	ul {
+		width: 100%;
+		margin-bottom: 0.2rem;
+		margin-top: 0;
+		float: left;
+		clear: both;
+		li {
+			margin: 0;
+			padding: 0 0 0.2rem 0;
+			border-top: 1px solid $color-grey;
+			display: inline-block;
+			float: left;
+			width: 25%;
+			font-size: 1rem;
+			a {display: block;padding: 0.4rem 0.2rem;}
+		}
+	}
+}
+}
+@media screen and (max-width: $width-small - 1px) {
+	nav {
+		ul {
+			li {
+				font-size: 1rem;
+				padding-bottom: 0;
+				width: 50%;
+			}
+		}
+	}
+}
+.about .about a,
+.news .news a,
+.meetings .meetings a,
+.exhib .exhib a,
+.join .join a,
+.contact .contact a {
+	color: $color-link-dark;
+}

@@ -1,0 +1,86 @@
+/*------------------------------------*\
+    #exhibitions
+\*------------------------------------*/
+
+.exhibitions {
+	clear: both;
+	.exhibition {
+		border-bottom: 1px solid #cacdcd;
+		h3 {margin-bottom: 0;margin-top:0.75rem;}
+		p {padding-right: 1rem;}
+	}
+	.exhibition:last-child {border-bottom: none;}
+}
+
+.exhibition-date {margin-top: 0.5rem; margin-bottom: 0rem;}
+
+.exhibitions-current {
+	background: $color-grey;
+	color: #fff;
+	padding-bottom: 1rem;
+	h1 {
+		font-size: 1.5rem;
+		line-height: 1.2;
+		margin-bottom: 0.75rem;
+		margin-top: 1.25rem;
+		border-top: 1px solid #737d7d;
+		padding-bottom: 0rem;
+	}
+}
+
+ @media screen and (max-width: $width-small - 1px) {
+ 	.exhibitions-current h1 {
+ 		font-size: 1.4rem;
+ 		margin-top: 1rem;
+ 	}
+ }
+
+.exhibitions-current .wrapper:first-child h1 {
+	border-top: 0;
+	padding-top: 0;
+}
+
+.exhibitions-past {
+	background: $color-grey-light;
+	color: $color-grey-dark;
+	padding-bottom: 0.5rem;
+	h2 {margin-bottom: 0;}
+}
+
+@media only screen and (min-width: 44rem) {
+	.exhib-active-1 {
+		width: 47%;
+		float: left;
+		padding-right: 2%;
+		.exhibition-date {margin-bottom: 0; margin-top: 0;}
+		.description {margin-bottom: 0; margin-top: 0;}		
+	}
+	.exhib-active-2 {
+		width: 28%;
+		padding-left: 2%;
+		float: left;
+	}
+	.exhib-active-3 {
+		width: 19%;
+		padding-left: 2%;
+		float: right;
+	}
+}
+
+@media only screen and (min-width: 40rem) {
+  	.exhibition {
+		width: 49%;
+		float: right;
+		clear: right;
+		border-bottom: none;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	.exhibition:nth-child(2n) {
+		float: left;
+		clear: left;
+	}
+	.exhibition:first-child {
+		h3, p, ul {padding-right: 1rem;}
+	}
+}
