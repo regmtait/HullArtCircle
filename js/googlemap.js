@@ -46,7 +46,7 @@ var options = {
 		mapTypeIds: [ 'Styled']
 	},
 	mapTypeControl: false, 
-	center: new google.maps.LatLng(53.743382, -0.345746),
+	center: new google.maps.LatLng(53.7555715,-0.4171581),
 	zoom: 17,
 	mapTypeId: 'Styled'
 };
@@ -54,7 +54,7 @@ var options = {
 maphull = new google.maps.Map(document.getElementById("map-hac"),options);
 
 var image = '/hac/hac-logo-map.svg';
-var HullLatLng = new google.maps.LatLng(53.743382, -0.345746);
+var HullLatLng = new google.maps.LatLng(53.7555715,-0.4171581);
 
 var rfdMarkerHull = new google.maps.Marker({
       position: HullLatLng,

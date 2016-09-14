@@ -10,11 +10,13 @@ nav-class: meetings
 permalink: /meetings/
 ---
 
-We meet at our studio at 6:45pm on every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
-
-The studio is in NAPA on Anlaby Road, the former College of Arts and Crafts (next to the former Tower Cinema). The studio is equipped with easels and donkeys, and we have a secure storage cupboard.
+We meet at our studios at 6:45pm on every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
 We also have a day-time life drawing session, again once a month. This morning session is open to non-members. There is an additional cost of £5 per session to cover the room hire.
+
+## Studio locations
+
+We meet at two different locations—the old Endeavour High School on Beverley Road for Monday evenings, and the Methodist Church Hall in Hessle each Wednesday ([details](/contact/))
 
 ## Model fees
 
