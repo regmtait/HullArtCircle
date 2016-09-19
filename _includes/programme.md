@@ -1,7 +1,6 @@
-## July 2016 programme
+## September 2016 programme
 
-* Mon 11 July – Richard (life)
-* Wed 13 July – Cassie
-* Mon 18 July – Evelynne (life)
-* Tues 19 July – Becky (life, daytime. Open to non-members.)
-* Wed 20 July – Andrew
+* Mon 12 Sept (Endeavour) – Cassie
+* Wed 14 Sept (Hessle) — Evalynne, life
+* Mon 19 Sept (Endeavour) – Katy, life
+* Wed 21 Sept (Hessle) – Jamie
