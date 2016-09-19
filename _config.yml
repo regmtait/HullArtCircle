@@ -4,7 +4,7 @@ email: info@hullartcircle.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   We’re a group of artists at all levels who meet regularly to work on portraiture, still life, landscapes and life drawing.
 baseurl: ""
-url: "http://hullartcircle.co.uk"
+url: "https://www.hullartcircle.co.uk"
 github_username:  regmtait
 facebook_id:  HullArtCircle
 sass:
