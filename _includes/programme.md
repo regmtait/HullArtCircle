@@ -1,9 +1,8 @@
-## Sep/Oct 2016 programme
+## October 2016 programme
 
-* Mon 26 Sep (Endeavour) – Jonathan
-* Wed 28 Sep (Hessle) – Evalynne, life
-* Mon 03 Oct (Endeavour) – Reana
-* Wed 05 Oct (Hessle) – Alan
-* Mon 10 Oct (Endeavour) – Katy, life
-* Wed 12 Oct (Hessle) – Tony & Andy
+* Wed 12 Oct (Hessle) – Evalynne, life
 * Mon 17 Oct (Endeavour) – Cassie
+* Wed 19 Oct (Endeavour) – Alan
+* Thu 20 Oct (Endeavour) – Annual General Meeting
+* w/c 24 Oct — half term, studio closed
+* Mon 31 Oct (Endeavour) – Richard
