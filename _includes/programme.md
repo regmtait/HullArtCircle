@@ -1,8 +1,9 @@
-## October 2016 programme
+## November 2016 programme
 
-* Wed 12 Oct (Hessle) – Evalynne, life
-* Mon 17 Oct (Endeavour) – Cassie
-* Wed 19 Oct (Endeavour) – Alan
-* Thu 20 Oct (Endeavour) – Annual General Meeting
-* w/c 24 Oct — half term, studio closed
-* Mon 31 Oct (Endeavour) – Richard
+* Mon 7 Nov (Endeavour) – Tony & Andy
+* Wed 9 Nov (Hessle) – Andrew
+* Mon 14 Nov (Endeavour) – Tracy
+* Wed 16 Nov (Hessle) – Richard, life
+* Mon 21 Nov (Endeavour) – Catherine
+* Tues 22 – Daytime session tbc
+* Wed 23 Nov (Hessle) – Eva, several poses
