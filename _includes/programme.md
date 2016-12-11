@@ -1,8 +1,7 @@
-## October 2016 programme
+## December 2016 programme
 
-* Wed 12 Oct (Hessle) – Evalynne, life
-* Mon 17 Oct (Endeavour) – Cassie
-* Wed 19 Oct (Endeavour) – Alan
-* Thu 20 Oct (Endeavour) – Annual General Meeting
-* w/c 24 Oct — half term, studio closed
-* Mon 31 Oct (Endeavour) – Richard
+* Mon 05 Dec (Hessle) – Katy, life
+* Wed 07 Dec (Endeavour) – Jamie
+* Mon 12 Dec (Hessle) – Richard, life
+* Wed 14 Dec (Endeavour) – Evalynne, life
+* Closed for the Xmas break until 09 Jan
