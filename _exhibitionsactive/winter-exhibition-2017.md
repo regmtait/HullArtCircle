@@ -1,5 +1,5 @@
 ---
-title: Everyday Hull—People and Places
+title: Everyday Hull—People <span class="amp">&amp;</span> Places
 summary: Winter Exhibition from Hull Art Circle members, showcasing work in a wide range of styles and materials.
 dates: 9—20 January 2017
 date: 2017-01-11 00:00:00 +1000
