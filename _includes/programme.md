@@ -1,7 +1,6 @@
-## December 2016 programme
+## January 2017 programme
 
-* Mon 05 Dec (Hessle) – Katy, life
-* Wed 07 Dec (Endeavour) – Jamie
-* Mon 12 Dec (Hessle) – Richard, life
-* Wed 14 Dec (Endeavour) – Evalynne, life
-* Closed for the Xmas break until 09 Jan
+* Mon 16 Jan (Endeavour) – Richard
+* Wed 18 Jan (Hessle) – Evalynne, life
+* Mon 23 Jan (Endeavour) – Cassie
+* Wed 25 Jan (Hessle) – Jamie
