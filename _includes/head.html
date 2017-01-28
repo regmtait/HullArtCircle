@@ -17,8 +17,7 @@
   </style>
 
 {% if page.nav-class == "contact" %}
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3U7uwIvCyq01orxppAIC1v73y-FBGygY&callback=initMap"
-    async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3U7uwIvCyq01orxppAIC1v73y-FBGygY&callback=initMap"></script>
 {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
