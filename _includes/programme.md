@@ -1,6 +1,11 @@
-## January 2017 programme
+## Jan / Feb 2017 programme
 
-* Mon 16 Jan (Endeavour) – Richard
-* Wed 18 Jan (Hessle) – Evalynne, life
-* Mon 23 Jan (Endeavour) – Cassie
-* Wed 25 Jan (Hessle) – Jamie
+* Mon 30 Jan (Endeavour) – Katy
+* Wed 1 Feb (Hessle) – tbc
+* Thu 2 Feb — <a href="/urban-sketching/" title="Urban sketching session, meeting at Victoria Square">Sketching session</a> at Queen Victoria Square
+* Mon 6 Feb (Endeavour) – Tony
+* Tue 7 Feb (Hessle, daytime) – Becky
+* Wed 8 Feb (Hessle) – Eve
+* Mon 13 Feb (Endeavour) – Trish
+* Wed 15 Feb (Hessle) – tbc
+* Week of 20 Feb — half term
