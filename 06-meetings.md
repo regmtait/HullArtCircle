@@ -10,19 +10,24 @@ nav-class: meetings
 permalink: /meetings/
 ---
 
+
+### Evening meetings
+
 We meet at our studios at 6:45pm on every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
-We also have a day-time life drawing session, again once a month. This morning session is open to non-members. There is an additional cost of £5 per session to cover the room hire.
+### Daytime meetings — open all all
 
-## Studio locations
+We also have a daytime life drawing session, again once a month. This morning session (10:30am—12:30pm) is open to non-members. There is an additional cost of £5 per session to cover the room hire.
+
+### Studio locations
 
 We meet at two different locations—the old Endeavour High School on Beverley Road for Monday evenings, and the Methodist Church Hall in Hessle each Wednesday ([details](/contact/))
 
-## Model fees
+### Model fees
 
 Paid models are £1.50 per session, or £2.00 for a life model. (Volunteers are very welcome too. Please [get in touch](/contact/) if you'd like to sit for us).
 
-## Programme
+### Programme
 
 * Meetings are on Monday and Wednesday evenings (6:45pm—8:45pm)
 * Monthly daytime sessions on a Tuesday (10:30am—12:30pm)
@@ -30,6 +35,6 @@ Paid models are £1.50 per session, or £2.00 for a life model. (Volunteers are 
 * Christmas party
 * Sketching programme during the summer while the studio is closed
 
-## Periods of closure
+### Periods of closure
 
 The studio is closed during term time holidays. During August we sometimes find alternative accommodation for a few weeks.
