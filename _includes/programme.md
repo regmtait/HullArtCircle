@@ -1,6 +1,5 @@
-## Jan / Feb 2017 programme
+## February 2017 programme
 
-* Mon 30 Jan (Endeavour) – Katy
 * Wed 1 Feb (Hessle) – tbc
 * Thu 2 Feb — <a href="/urban-sketching/" title="Urban sketching session, meeting at Victoria Square">Sketching session</a> at Queen Victoria Square
 * Mon 6 Feb (Endeavour) – Tony
