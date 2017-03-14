@@ -1,7 +1,8 @@
-## February 2017 programme
+## March 2017 programme
 
-* Tue 7 Feb (Hessle, daytime life session. <a href="/meetings#daytime-meetings--open-all-all">Open to all</a>)
-* Wed 8 Feb (Hessle) — Eve
-* Mon 13 Feb (Endeavour) — Trish
-* Wed 15 Feb (Hessle) — tbc
-* Week of 20 Feb — half term
+* Wed 15 March (Hessle) — Eva
+* Thu 16 March — <a href="/urban-sketching/" title="Urban sketching session, meeting at Victoria Square, Hull">Outdoor sketching session</a> — last week of The Blade
+* Mon 20 March (Endeavour) — Katy
+* Wed 22 March (Hessle) — tbc
+* Thu 23 March — <a href="/urban-sketching/" title="Urban sketching session, Hull">Outdoor sketching session</a> — Station area
+* Mon 27 March (Endeavour) — Jonathan
