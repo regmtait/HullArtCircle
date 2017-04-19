@@ -1,8 +1,5 @@
 ## April/May 2017 programme
 
-* Tue 4 April (Hessle, daytime life session. <a href="/meetings#daytime-meetings--open-all-all">Open to all</a>)
-* Wed 5 April (Hessle) — Ben
-* Thu 6 April — <a href="/urban-sketching/" title="Urban sketching, Hull">Outdoor sketching</a> — TBA
 * Hessle and Endeavour closed for Easter till 24 April
 * Mon 24 April (Endeavour) — Richard
 * Wed 26 April (Hessle) — Eve
