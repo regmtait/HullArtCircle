@@ -10,3 +10,4 @@
 * Tues 23 Feb – Romilly (life, daytime. Open to non-members.)
 * Wed 24 Feb – Rayhen
 * Mon 29 Feb – Adam
+* Hessle and Endeavour closed for Easter till 24 April

@@ -1,6 +1,5 @@
 ## April/May 2017 programme
 
-* Hessle and Endeavour closed for Easter till 24 April
 * Mon 24 April (Endeavour) — Richard
 * Wed 26 April (Hessle) — Eve
 * Thu 27 April — <a href="/urban-sketching/" title="Urban sketching, Hull">Outdoor sketching</a> — TBA
