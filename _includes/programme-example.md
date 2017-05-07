@@ -11,3 +11,5 @@
 * Wed 24 Feb – Rayhen
 * Mon 29 Feb – Adam
 * Hessle and Endeavour closed for Easter till 24 April
+* * Thu 4 May — <a href="/urban-sketching/" title="Urban sketching, Hull">Outdoor sketching</a> — TBA
+* Sat 6 May — Yorkshire Urban Sketching, starting at Hull Paragon Station, 10am. Details on <a href="https://www.facebook.com/events/1805060069755375/" title="Urban sketching, Hull">Facebook</a>
