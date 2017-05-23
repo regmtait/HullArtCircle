@@ -1,8 +1,12 @@
-## May 2017 programme
+## May/June 2017 programme
 
-* Mon 15 May (Endeavour) — Jamie
-* Wed 17 May (Hessle) — Alan, several poses
-* Thu 18 May — <a href="/urban-sketching/" title="Urban sketching, Hull">Outdoor sketching</a> — sculptures at Hull University
-* Mon 22 May (Endeavour) — Trish as Wonder Woman
 * Wed 24 May (Hessle) — Debra
 * Week of 29th — half term, no studio sessions
+* Thu 1 June — <a href="/urban-sketching/" title="Urban sketching session">Sketching at the University</a> meeting at the library café @ 10:30
+* Mon 5 June (Endeavour) — Cassie
+* Tue 6 June (Hessle, daytime life session. <a href="/meetings#daytime-meetings--open-all-all">Open to all</a>)
+* Wed 7 June (Hessle) — Eva
+* Thu 8 June — <a href="/urban-sketching/" title="Urban sketching session">Sketching at the University</a> meeting at the library café @ 10:30
+* Mon 12 June (Endeavour) — Catherine
+* Wed 14 June (Hessle) — Richard
+* Thu 15 June — <a href="/urban-sketching/" title="Urban sketching session">Urban sketching</a> at an agreed venue
