@@ -13,7 +13,10 @@ permalink: /meetings/
 
 ### Evening meetings
 
-We meet at our studios at 6:45pm on every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
+We meet at our studios every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
+
+* Monday at Endeavour: 6:15—8:15pm
+* Wednesday at Hessle: 6:45—8:45pm
 
 ### Daytime meetings — open all all
 
@@ -29,7 +32,7 @@ Paid models are £1.50 per session, or £2.00 for a life model. (Volunteers are 
 
 ### Programme
 
-* Meetings are on Monday and Wednesday evenings (6:45pm—8:45pm)
+* Meetings are on Monday and Wednesday evenings
 * Monthly daytime sessions on a Tuesday (10:30am—12:30pm)
 * Annual [exhibitions](/exhibitions/)
 * Christmas party
