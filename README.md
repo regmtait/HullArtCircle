@@ -1,6 +1,6 @@
 # hullartcircle.co.uk
 
-Website for The Hull Art Circle served at [hullartcircle.co.uk](https://www.hullartci.co.uk)
+Website for The Hull Art Circle served at [hullartcircle.co.uk](https://www.hullartcircle.co.uk)
 
 # Overview
 
