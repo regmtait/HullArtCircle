@@ -9,7 +9,7 @@ permalink: /meet-and-sketch/
 excerpt: We've begun urban sketching in town to record Hull City of Culture, starting Thursday 2nd February. 
 ---
 
-We have started to arrange urban sketching around Hull to record Hull City of Culture. If you are interested let us know or just turn up. These sessions are not just for the Hull Art Circle group, so if you would like to sketch with us, please come along.
+We have started to arrange sketching around Hull to record Hull City of Culture. If you are interested let us know or just turn up. These sessions are not just for the Hull Art Circle group, so if you would like to sketch with us, please come along.
 
 ## Next meeting
 
