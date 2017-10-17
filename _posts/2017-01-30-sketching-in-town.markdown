@@ -13,6 +13,6 @@ We have started to arrange sketching around Hull to record Hull City of Culture.
 
 ## Next meeting
 
-Meet &amp; Sketch at The Maritime Museum, Thursday 12th October, 10.30am.
+### Meet &amp; Sketch at The Maritime Museum, Thursday 12th October, 10.30am.
 
 Opening this week is the [Turner and the Whale](http://search3.openobjects.com/kb5/hull/events/event.page?record=LKXJjaHaX9U) exhibition. A chance to see four of Turner's paintings at the Maritime Museum.
