@@ -1,8 +1,10 @@
-## October 2017 programme
+## January 2018 programme
 
-* Mon 9 Oct (Endeavour) — Christie
-* Thu 12 Oct — <a href="/meet-and-sketch/" title="Meet and Sketch">Meet and Sketch</a> — The Maritime Museum
-* Mon 16 Oct (Endeavour) — A.G.M.
-* Mon 23 Oct (Endeavour) — Andrew
-* Wed 25 Oct (Hessle) — Sue
-
+* Mon 8 Jan (Endeavour) — Richard, several poses
+* Wed 10 Jan (Hessle) — Eve, life
+* Mon 15 Jan (Endeavour) — Becky, life
+* Wed 17 Jan (Hessle) — Chris, with still life
+* Mon 22 Jan (Endeavour) — Leonard
+* Tue 23 Jan (Hessle, daytime) — Becky, life
+* Wed 24 Jan (Hessle) — Jamie, several poses
+* Mon 29 Jan (Endeavour) — Katie, life
