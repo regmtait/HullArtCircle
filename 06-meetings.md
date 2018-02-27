@@ -28,7 +28,7 @@ We meet at two different locations—the old Endeavour High School on Beverley R
 
 ### Model fees
 
-Paid models are £1.50 per session, or £2.00 for a life model. (Volunteers are very welcome too. Please [get in touch](/contact/) if you'd like to sit for us).
+Paid models are £2.00. Volunteers are very welcome.
 
 ### Programme
 
