@@ -1,7 +1,7 @@
 ## February/March 2018 programme
 
 * Mon 26 Feb (Endeavour) — Jamie
-* Wed 28 Feb (Hessle) — Debra with still life
+* Wed 28 Feb (Hessle) — <strike>Debra with still life</strike> (Cancelled ❄️)
 * Mon 5 Mar (Endeavour) — Kay, life (1/2 poses)
 * Wed 7 Mar (Hessle) — Evalynne, life
 * Mon 12 Jan (Endeavour) — Kay, life (1/2 poses)
