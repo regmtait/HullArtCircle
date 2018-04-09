@@ -1,6 +1,11 @@
-## March 2018 programme
+## April 2018 programme
 
-* Mon 19 Mar (Endeavour) — Ade
-* Tues 20 Mar — Richard (life, daytime. Open to non-members.)
-* Wed 21 Mar — Chris with still life
-* Weeks 26 March & 2 April — Easter break
+* Mon 9 Apr (Endeavour) — Ade
+* Wed 21 Apr — Eve
+* Thu 12 Apr — <a href="/meet-and-sketch/">Meet & Sketch</a>, Museums Quarter, High Street
+* Mon 16 Apr — TBC
+* Wed 18 Apr — Andrew
+* Thu 19 Apr — Meet & Sketch
+* Mon 23 Apr — Life drawing, model TBC
+* Tue 24 Apr – TBC (life, daytime. Open to non-members.)
+
