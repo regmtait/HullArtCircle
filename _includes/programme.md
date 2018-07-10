@@ -1,7 +1,5 @@
-## April 2018 programme
+## July 2018 programme
 
-* Mon 16 Apr (Endeavour) — TBC
-* Wed 18 Apr (Hessle) — Andrew
+* Mon 16 July (Endeavour) — Kat, life
+* Wed 18 July (Hessle) — Jamie
 * Thu 19 Apr — Meet & Sketch
-* Mon 23 Apr (Endeavour) — Life drawing, model TBC
-* Tue 24 Apr (Hessle) – TBC (life, daytime. Open to non-members.)
