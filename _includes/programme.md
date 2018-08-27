@@ -1,6 +1,9 @@
-## July 2018 programme
+## Sept 2018 programme
 
-* Wed 11 July • Cancelled due to World Cup 🏆
-* Mon 16 July (Endeavour) — Kat, life
-* Wed 18 July (Hessle) — Jamie
-* Thu 19 July — Meet & Sketch
+* Wed 5 Sept – Kat
+* Sun 9 Sept – Walk of Life—Park Ave Education Centre
+* Mon 10 Sept — Rob
+* Wed 12 Sept — TBC
+* Mon 17 Sept — Eve
+* Mon 19 Sept — Richard
+* Mon 24 Sept — Anna
