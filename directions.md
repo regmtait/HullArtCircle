@@ -11,9 +11,6 @@ permalink: /directions/
 
 ---
 
-### Hull Training & Adult Education, Beverley Rd, Hull HU3 1UR
-
-Access to the Endeavour is via St. Hilda Street. Drive almost to the end of the street and turn right into the car park but park at the Beverley Road end, if you can. The main door is at the front of the building. There is a bell for access. The art room is room 154 up stairs.
 
 ### Hessle Methodist Church Hall, Tower Hill, Hessle HU13 0SP
 

@@ -9,12 +9,19 @@ nav-class: contact
 permalink: /contact/
 ---
 
-Our studio addresses are:
+### Our studio address is:
 
-* Monday evenings—Hull Training & Adult Education (Endeavour High School), Beverley Rd, Hull HU3 1UR
-* Wednesday evenings—Hessle Methodist Church Hall, Tower Hill, Hessle HU13 0SP
+Hessle Methodist Church Hall, Tower Hill, Hessle HU13 0SP
 
-Meeting times on Monday at Endeavour are 6:15—8:15pm, and Wednesday at Hessle are 6:45—8:45pm ([directions and parking](/directions/))
+### Meeting times
+
+6:45—8:45pm
+
+### Directions and Parking
+
+You can park in the free car park behind the Co-op supermarket (well-signposted) and walk back and cross the roads in the direction of the traffic lights. Just past the lights and between the Methodist Church and the Hall there is a short passage. Access to the studio is through the door towards the end of the building on the right and up the stairs again on your right once inside.
+
+### Get in touch
 
 If you'd like to get in touch, you can send an email to [info@hullartcircle.co.uk](mailto:info@hullartcircle.co.uk?subject=Enquiry from the Hull Art Circle website 'Email the Hull Art Circle'). If you're interested in sitting for us, please leave your phone number so Anne can call you back.
 

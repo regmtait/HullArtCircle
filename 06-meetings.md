@@ -15,8 +15,7 @@ permalink: /meetings/
 
 We meet at our studios every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
-* Monday at Endeavour: 6:15—8:15pm
-* Wednesday at Hessle: 6:45—8:45pm
+* Monday and Wednesday at Hessle: 6:45—8:45pm
 
 ### Daytime meetings — open all all
 
@@ -24,7 +23,7 @@ We also have a daytime life drawing session, again once a month. This morning se
 
 ### Studio locations
 
-We meet at two different locations—the old Endeavour High School on Beverley Road for Monday evenings, and the Methodist Church Hall in Hessle each Wednesday ([details](/contact/))
+We meet at the Methodist Church Hall in Hessle — ([details](/contact/))
 
 ### Model fees
 
