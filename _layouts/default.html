@@ -7,11 +7,12 @@
 
 {% include header.html %}
 
-<img class="main-image"
-	title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" 
+{% if page.bannerlink %}<a href="{{ page.bannerlink }}" title="{{ page.bannerlinktitle }}">{% endif %}
+<img class="main-image" 
 	src="/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.png{% endif %}"
 	srcset="{% if page.bannerpicsmall %}/hac/{{ page.bannerpicsmall }} 640w, {% endif %}/hac/{% if page.bannerpic %}{{ page.bannerpic }}{% else %}temp-header.jpg{% endif %} 1000w"
-	alt="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	alt="{% if page.bannerlinktitle %}{{ page.bannerlinktitle }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+{% if page.bannerlink %}</a>{% endif %}
 
 <div class="page-content">
  {{ content }}
