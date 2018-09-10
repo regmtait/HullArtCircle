@@ -11,15 +11,11 @@ permalink: /contact/
 
 ### Our studio address is:
 
-Hessle Methodist Church Hall, Tower Hill, Hessle HU13 0SP
+1 Market Green, Cottingham HU16 5QG — [Google map](https://www.google.com/maps/place/Cottingham+Civic+Hall/@53.7810966,-0.4146015,15z/data=!4m6!3m5!1s0x0:0x9e981af2c46d7b2b!4b1!8m2!3d53.7810966!4d-0.4146015)
 
 ### Meeting times
 
 6:45—8:45pm
-
-### Directions and Parking
-
-You can park in the free car park behind the Co-op supermarket (well-signposted) and walk back and cross the roads in the direction of the traffic lights. Just past the lights and between the Methodist Church and the Hall there is a short passage. Access to the studio is through the door towards the end of the building on the right and up the stairs again on your right once inside.
 
 ### Get in touch
 

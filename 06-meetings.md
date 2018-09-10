@@ -15,7 +15,7 @@ permalink: /meetings/
 
 We meet at our studios every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
-* Monday and Wednesday at Hessle: 6:45—8:45pm
+* Monday and Wednesday at Cottingham: 6:45—8:45pm
 
 ### Daytime meetings — open all all
 
@@ -23,7 +23,7 @@ We also have a daytime life drawing session, again once a month. This morning se
 
 ### Studio locations
 
-We meet at the Methodist Church Hall in Hessle — ([details](/contact/))
+We meet at the Civil Hall at Cottingham — ([details](/contact/))
 
 ### Model fees
 
