@@ -1,7 +1,11 @@
-## Sept 2018 programme
+## Oct/Nov 2018 programme
 
-* Mon 10 Sept — Rob
-* Wed 12 Sept — TBC
-* Mon 17 Sept — Eve
-* Mon 19 Sept — Richard
-* Mon 24 Sept — Anna
+* Mon 15 — AGM + sketching
+* Wed 17 — Rob
+* Thu 18 — sketching
+* Mon 22 — Evalynne
+* Wed 24 — Jamie
+* Thu 25 — sketching
+* Mon 29 — Lilly Mae
+* Wed 31 — tbc
+* Thu 1 Nov — sketching 
