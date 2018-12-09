@@ -1,4 +1,4 @@
-## Nov/Dec 2018 programme
+## December 2018 programme
 
 * Mon 10 — Jamie 1/2 — recreate Cezanne’s card players
 * Wed 12 — Debra 
