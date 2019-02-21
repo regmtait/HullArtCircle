@@ -1,8 +1,9 @@
-## Feb 2019 programme
+## February/March 2019 programme
 
-* Mon 4 Jamie (1/2)
-* Wed 6 Jonathan
-* Mon 11 Jamie (2/2)
-* Wed 13 Eva
-* Mon 18 Bex
 * Wed 20 ~ Half term ~
+* Mon 25 Sarah with exotic costume
+* Wed 27 Richard
+* Thu 28 <a href="/meet-and-sketch/">Meet & Sketch</a>, University
+* Mon 4 Aide
+* Wed 6 Pam in purple
+* Thu 7 <a href="/meet-and-sketch/">Meet & Sketch</a>, tba
