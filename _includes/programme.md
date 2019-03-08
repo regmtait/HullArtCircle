@@ -1,9 +1,9 @@
-## February/March 2019 programme
+## March 2019 programme
 
-* Wed 20 ~ Half term ~
-* Mon 25 Sarah with exotic costume
-* Wed 27 Richard
-* Thu 28 <a href="/meet-and-sketch/">Meet & Sketch</a>, University
-* Mon 4 Aide
-* Wed 6 Pam in purple
-* Thu 7 <a href="/meet-and-sketch/">Meet & Sketch</a>, tba
+* Sat 9 <a href="/meet-and-sketch/">Meet & Sketch</a>, The Deep at 10am
+* Mon 11 Evalynne
+* Wed 13 Debra
+* Thu 14 <a href="/meet-and-sketch/">Meet & Sketch</a>, tbs
+* Mon 18 Roger
+* Wed 20 Lilly
+* Thu 21 <a href="/meet-and-sketch/">Meet & Sketch</a>, tba
