@@ -16,7 +16,7 @@ permalink: /contact/
 
 ### Meeting times
 
-6:15—8:15pm
+6:45—8:45pm
 
 ### Get in touch
 
