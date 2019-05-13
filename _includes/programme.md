@@ -1,6 +1,7 @@
-## April/May 2019 programme
+## May 2019 programme
 
-* Mon 29 Bex
-* Wed 1 Jamie
-* Mon 6 Bank Holiday (no session)
 * Wed 8 Debbie
+* Mon 13 Robert
+* Wed 15 Roger
+* Mon 20 Evalynne
+* Wed 22 Debra
