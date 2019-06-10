@@ -1,7 +1,8 @@
-## May 2019 programme
+## June 2019 programme
 
-* Wed 8 Debbie
-* Mon 13 Robert
-* Wed 15 Roger
-* Mon 20 Evalynne
-* Wed 22 Debra
+* Mon 10 Richard
+* Wed 12 Chris
+* Mon 17 Andy Train
+* Wed 19 Alan
+* Mon 24 Sarah
+* Wed 26 Jamie
