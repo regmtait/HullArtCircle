@@ -1,8 +1,7 @@
-## June 2019 programme
+## July 2019 programme
 
-* Mon 10 Richard
-* Wed 12 Chris
-* Mon 17 Andy Train
-* Wed 19 Alan
-* Mon 24 Sarah
-* Wed 26 Jamie
+* Wed 3 Pauline
+* Mon 8 Robert
+* Wed 10 Debra
+* Mon 15 Evalynne
+* Wed 17 Magician Richard Spurr
