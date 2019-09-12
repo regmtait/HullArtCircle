@@ -1,7 +1,4 @@
-## July 2019 programme
+## September 2019 programme
 
-* Wed 3 Pauline
-* Mon 8 Robert
-* Wed 10 Debra
-* Mon 15 Evalynne
-* Wed 17 Magician Richard Spurr
+* Mon 16 Jess
+* Wed 18 Debra
