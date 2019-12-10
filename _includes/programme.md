@@ -1,4 +1,6 @@
-## Nov/Dec 2019 programme
+## Dec 2019 programme
 
-* Wed 27 Alan, Sistine Chapel prophet
-* Mon 2 Dec Still life
+* Wed 11 Alison, steam punk
+* Mon 1 Sarah
+* Wed 18 Jamie, Sistine Chapel prophet
+* Closed for Christmas break
