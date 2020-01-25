@@ -1,6 +1,4 @@
-## Dec 2019 programme
+## Jan 2020 programme
 
-* Wed 11 Alison, steam punk
-* Mon 16 Sarah
-* Wed 18 Jamie, Sistine Chapel prophet
-* Closed for Christmas break
+* Mon 27 Rosie 
+* Wed 29 George
