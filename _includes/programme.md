@@ -1,6 +1,6 @@
 ## March 2020 programme
 
-* Mon 10 Eimelia
+* Mon 2 Eimelia
 * Wed 4 Richard
 * Mon 9 Bex
 * Wed 11 Steve
