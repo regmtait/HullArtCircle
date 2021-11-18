@@ -13,10 +13,10 @@ permalink: /meetings/
 
 ### Evening meetings
 
-We meet at our studios every Monday and Wednesday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
+We meet at our studios every Monday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
-* Wednesday at Hessle: 6:45—8:45pm — ([details](/contact/))
+~~* Wednesday at Hessle: 6:45—8:45pm — ([details](/contact/))~~
 
 ### Daytime meetings — open all all
 
