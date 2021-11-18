@@ -1,3 +1,5 @@
-## Spring 2020 programme
+## November 2021 programme
 
-Our sessions are on hold due to the coronavirus pandemic. Looking forward to restarting in the future.
+* 15th November Andy
+* 22nd November Evelynne
+* 29th November Trisha
