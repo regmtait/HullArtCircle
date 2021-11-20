@@ -16,15 +16,21 @@ permalink: /meetings/
 We meet at our studios every Monday evening. We offer no tuition, but we always have a portrait model, and occasionally, once a month a life model.
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
-~~* Wednesday at Hessle: 6:45—8:45pm — ([details](/contact/))~~
+* ~~Wednesday at Hessle: 6:45—8:45pm — ([details](/contact/))~~
 
-### Daytime meetings — open all all
+We hope to open the Hessle venue again after the Christmas break.
 
-We also have occasional daytime life drawing session, again once a month. This morning session (10:30am—12:30pm) is open to non-members. There is an additional cost of £5 per session to cover the room hire.
+### COVID precautions
+
+We ask people attending the Cottingham venue to wear a mask when entering the building and if walking about talking. You can remove the mask when sitting and drawing.
+
+Many of our members are vulnerable to infection and the room is getting crowded as more members begin to attend. 
+
+We ask that only people who have had the COVID vaccination to attend.
 
 ### Thursday sketching
 
-We meeting for outdoor sketching throughout the year, Thursday daytime.
+We meet for outdoor sketching throughout the year, Thursday daytime.
 
 ### Model fees
 
@@ -32,10 +38,9 @@ Paid models are £2.00. Volunteers are very welcome.
 
 ### Programme
 
-* Meetings are on Monday and Wednesday evenings
+* Meetings are on Monday ~~and Wednesday~~ evenings
 * Outdoor sketching sessions Thursday daytime
 * Annual [exhibitions](/exhibitions/)
-* Christmas party
 * Sketching programme during the summer while the studio is closed
 
 ### Periods of closure
