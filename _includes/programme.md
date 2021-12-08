@@ -1,4 +1,4 @@
-## November 2021 programme
+## Dec 2021 programme
 
-* 22nd November Evelynne
-* 29th November Trisha
+* 2nd December Evelynne (Hessle)
+* 9th December Bethany (Hessle)
