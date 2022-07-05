@@ -1,4 +1,5 @@
-## Dec 2021 programme
+## Summer 2022 programme
 
-* 2nd December Evelynne (Hessle)
-* 9th December Bethany (Hessle)
+* 11 July Dave Brown
+* 18 July Lamorna
+* 25 July Phil
