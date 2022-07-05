@@ -13,10 +13,9 @@ permalink: /meetings/
 
 ### Evening meetings
 
-We meet at our studios every Monday and Thursday evening. We offer no tuition, but we always have a portrait model and occasionally a life model.
+We meet at our studio every Monday evening. We offer no tuition, but we always have a portrait model and occasionally a life model.
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
-* Thursday  at Hessle: 6:00—8:00pm — ([details](/contact/))
 
 ### COVID precautions
 
@@ -36,10 +35,9 @@ Paid models are £2.00. Volunteers welcome.
 
 ### Programme
 
-* Meetings are on Monday and Thursday evenings
+* Meetings are on Monday evenings
 * Outdoor sketching sessions Thursday daytime
 * Annual [exhibitions](/exhibitions/)
-* Sketching programme during the summer while the studio is closed
 
 ### Periods of closure
 
