@@ -9,10 +9,9 @@ nav-class: contact
 permalink: /contact/
 ---
 
-### Our studio addresses:
+### Our studio address:
 
 * Cottingham — 1 Market Green, Cottingham HU16 5QG ~ [Google map](https://www.google.com/maps/place/Cottingham+Civic+Hall/@53.7810966,-0.4146015,15z/data=!4m6!3m5!1s0x0:0x9e981af2c46d7b2b!4b1!8m2!3d53.7810966!4d-0.4146015)
-* Hessle — Methodist Church Hall, Tower Hill, Hessle HU13 0SP ~ [Google map](https://goo.gl/maps/Cc8GoEej1bTpznq5A) ~ [Directions](/directions/)
 
 ### Get in touch
 
