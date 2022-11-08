@@ -1,5 +1,5 @@
-## Summer 2022 programme
+## November 2022 programme
 
-* 11 July — Dave Brown
-* 18 July — Lamorna
-* 25 July — Phil
+* 14 Nov — Jamie TBC
+* 21 Nov — Paul (life)
+* 28 Nov — Francesco TBC
