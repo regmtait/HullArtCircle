@@ -27,39 +27,13 @@ nav-class: home
 
 <div class="wrapper">
 
-<div class="callout callout-exhibition">
-{% assign items = site.exhibitions | sort: 'date' %}
-{% for exhibitionsactive in site.exhibitionsactive limit:1 %}
-<h2>{{ exhibitionsactive.title }}</h2>
-<p class="post-date">{{ exhibitionsactive.dates }}</p>
-<p>{{ exhibitionsactive.summary }}</p>
-{% endfor %}
-<a class="read-more" href="/exhibitions/" title="Hull Art Circle exhibitions">Read more →</a>
+<div class="callout">
+<h2>Model for us</h2>
+<p>We’re always on the lookout for models to sit for us at our meetings. If you’re interested, please <a href="/contact/" title="Contact Hull Art Circle">get in touch.</a></p>
 </div>
 
 <div class="callout programme">
 {% markdown programme.md %}
-</div>
-
-</div><!-- end wrapper -->
-
-</section>
-
-<section class="callouts cf">
-
-<div class="wrapper">
-
-<div class="callout callout-news">
-{% for post in site.posts limit:1 %}
-<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-<p>{{ post.excerpt }}</p>
-{% endfor %}
-</div>
-
-<div class="callout">
-<h2>Model for us</h2>
-<p>We’re always on the lookout for models to sit for us at our meetings. If you’re interested, please <a href="/contact/" title="Contact Hull Art Circle">get in touch.</a></p>
 </div>
 
 </div><!-- end wrapper -->
