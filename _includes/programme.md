@@ -1,5 +1,6 @@
-## November 2022 programme
+## March 2023 programme
 
-* 14 Nov — Jamie TBC
-* 21 Nov — Paul (life)
-* 28 Nov — Francesco TBC
+* 6 March — Trish
+* 13 March — Bryony
+* 20 March — Kim
+* 27 March — Erica
