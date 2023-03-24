@@ -1,6 +1,6 @@
-## March 2023 programme
+## April 2023 programme
 
-* 6 March — Trish
-* 13 March — Bryony
-* 20 March — Kim
-* 27 March — Erica
+* 3 April — Alan Reagan
+* 10 April — Easter Bank Holiday
+* 17 April — Ali
+* 24 April — Tracy
