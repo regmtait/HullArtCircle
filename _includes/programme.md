@@ -1,6 +1,6 @@
-## April 2023 programme
+## June 2023 programme
 
-* 3 April — Alan
-* 10 April — Easter Bank Holiday
-* 17 April — Ali
-* 24 April — Tracy
+* 5 June — Natalie
+* 12 June — Evelyn
+* 19 June — AGM
+* 26 June — Leon
