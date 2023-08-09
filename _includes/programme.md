@@ -1,6 +1,5 @@
-## June 2023 programme
+## August 2023 programme
 
-* 5 June — Natalie
-* 12 June — Evelyn
-* 19 June — AGM
-* 26 June — Leon
+* 14 August — Trish
+* 21 August — Alan
+* 26 June — No session (Bank Holiday)
