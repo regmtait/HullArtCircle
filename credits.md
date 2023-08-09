@@ -12,6 +12,4 @@ permalink: /credits/
 
 This website was designed by [Reg Tait](http://regmtait.co.uk 'Reg Tait'), a member of the Hull Art Circle. It's served statically after being built with [Jekyll](https://jekyllrb.com/ 'Jekyll website'). There are no cookies.
 
-The wonderful studio photography was by [Trisha Boulton](http://facetphotography.co.uk 'Trisha Boulton of Facet Photography') of Facet Photography.
-
-
+The wonderful studio photography was by Trisha Boulton.
