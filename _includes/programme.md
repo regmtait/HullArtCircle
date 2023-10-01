@@ -1,5 +1,7 @@
-## August 2023 programme
+## October 2023 programme
 
-* 14 August — Trish
-* 21 August — Alan
-* 26 June — No session (Bank Holiday)
+* 2 Oct — Pauline
+* 9 Oct — Evelynne
+* 16 Oct — Olivia
+* 23 Oct — Paul
+* 30 Oct — Ali
