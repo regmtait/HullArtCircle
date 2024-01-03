@@ -1,7 +1,6 @@
-## October 2023 programme
+## January 2024 programme
 
-* 2 Oct — Pauline
-* 9 Oct — Evelynne
-* 16 Oct — Olivia
-* 23 Oct — Paul
-* 30 Oct — Ali
+* 8 Jan — Kim
+* 15 Jan — Mike
+* 22 Jan — William
+* 29 Jan — Alan
