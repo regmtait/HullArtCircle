@@ -31,7 +31,7 @@ We meet for outdoor sketching throughout the year, Thursday daytime.
 
 ### Model fees
 
-Paid models are £2.00. Volunteers welcome.
+Paid models are £3.00. Volunteers welcome.
 
 ### Programme
 
