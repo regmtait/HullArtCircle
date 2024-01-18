@@ -10,13 +10,14 @@ bannerpic: header3.jpg
 bannerpicsmall: header3-small.jpg
 ---
 
-If you are interested in the Hull Art Circle just turn up at [our studio](/contact/ 'Hull Art Circle Studio') with some drawing and painting materials and see whether our group suits you. There will be no initial fee to pay except the model fee.
-
-If you decide that this is for you, there will be a club subscription, but you would be excused that for your first visit.
+If you are interested in the Hull Art Circle just turn up at [our studio](/contact/ 'Hull Art Circle Studio') with some drawing and painting materials and see whether our group suits you.
 
 ## Subscription fees
 
-* The club subscription fee is £30 per year
-* Exhibition-only membership is also available
+The club subscription fee is £60 per year. The first taster session for new members is free.
 
+We ask members who attend sessions pay £3 towards the models.
 
+One off sessions is £5 plus the model.
+
+Exhibition fee is £15 for those who do not attend sessions, but wish to take part in our exhibitions.
