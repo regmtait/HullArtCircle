@@ -1,6 +1,6 @@
-## January 2024 programme
+## February 2024 programme
 
-* 8 Jan — Kim
-* 15 Jan — Mike
-* 22 Jan — William
-* 29 Jan — Alan
+* 5 Feb — Craig
+* 12 Feb — Evelyn
+* 19 Feb — David
+* 26 Feb — Aly
