@@ -17,14 +17,6 @@ We meet at our studio every Monday evening. We offer no tuition, but we always h
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
 
-### COVID precautions
-
-We ask people attending the Cottingham venue to wear a mask when entering the building and if walking about talking. You can remove the mask when sitting and drawing.
-
-Many of our members are vulnerable to infection and the room is getting crowded as more members begin to attend. 
-
-We ask that only people who have had the COVID vaccination to attend.
-
 ### Thursday sketching
 
 We meet for outdoor sketching throughout the year, Thursday daytime.
