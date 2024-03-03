@@ -7,4 +7,5 @@ bannerpic: header2.jpg
 bannerpicsmall: header2-small.jpg
 nav-class: news
 permalink: /news/
+exclude_from_nav: true
 ---
