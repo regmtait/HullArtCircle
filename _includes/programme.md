@@ -1,6 +1,6 @@
-## February 2024 programme
+## April 2024 programme
 
-* 5 Feb — Craig
-* 12 Feb — Evelyn
-* 19 Feb — David
-* 26 Feb — Aly
+* 5 April — Evelynne
+* 22 April — Mike
+* 29 April — Pauline
+* 6 May — Bank Holiday
