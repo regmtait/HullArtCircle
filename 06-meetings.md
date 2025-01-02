@@ -17,14 +17,9 @@ We meet at our studio every Monday evening. We offer no tuition, but we always h
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
 
-### Model fees
-
-Paid models are £3.00. Volunteers welcome.
-
 ### Programme
 
 * Meetings are on Monday evenings
-* Outdoor sketching sessions Thursday daytime
 * Annual [exhibitions](/exhibitions/)
 
 ### Periods of closure
