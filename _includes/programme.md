@@ -1,6 +1,6 @@
-## April 2024 programme
+## Jnauary 2025 programme
 
-* 5 April — Evelynne
-* 22 April — Mike
-* 29 April — Pauline
-* 6 May — Bank Holiday
+* 6 January — Alan
+* 13 January — Trish
+* 20 January — Kim
+* 27 January — Mia
