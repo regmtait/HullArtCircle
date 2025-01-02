@@ -1,4 +1,4 @@
-## Jnauary 2025 programme
+## January 2025 programme
 
 * 6 January — Alan
 * 13 January — Trish
