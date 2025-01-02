@@ -17,10 +17,6 @@ We meet at our studio every Monday evening. We offer no tuition, but we always h
 
 * Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
 
-### Thursday sketching
-
-We meet for outdoor sketching throughout the year, Thursday daytime.
-
 ### Model fees
 
 Paid models are £3.00. Volunteers welcome.
