@@ -1,6 +1,6 @@
-## January 2025 programme
+## February 2025 programme
 
-* 6 January — Alan
-* 13 January — Trish
-* 20 January — Kim
-* 27 January — Mia
+* 3 February — Pauline
+* 10 February — Eric
+* 17 February — TBC
+* 24 February — Evy
