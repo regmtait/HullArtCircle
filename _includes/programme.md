@@ -1,6 +1,6 @@
-## February 2025 programme
+## May 2025 programme
 
-* 3 February — Pauline
-* 10 February — Eric
-* 17 February — TBC
-* 24 February — Evy
+* 5 May — Bank Holiday
+* 12 May — Claudia
+* 19 May — TBC
+* 26 May — Bank Holiday
