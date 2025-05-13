@@ -11,7 +11,7 @@ permalink: /contact/
 
 ### Our studio address:
 
-Cottingham — 1 Market Green, Cottingham HU16 5QG ~ [Google map](https://www.google.com/maps/place/Cottingham+Civic+Hall/@53.7810966,-0.4146015,15z/data=!4m6!3m5!1s0x0:0x9e981af2c46d7b2b!4b1!8m2!3d53.7810966!4d-0.4146015)
+Cottingham — 1 Market Green, Cottingham HU16 5QG ~ [Google map](https://www.google.com/maps/place/Cottingham+Civic+Hall/@53.7810966,-0.4146015,15z/data=!4m6!3m5!1s0x0:0x9e981af2c46d7b2b!4b1!8m2!3d53.7810966!4d-0.4146015 'The Hull Art Circle studio at Cottingham on Google Maps')
 
 ### Get in touch
 
