@@ -1,6 +1,7 @@
-## May 2025 programme
+## September 2025 programme
 
-* 5 May — Bank Holiday
-* 12 May — Charlotte
-* 19 May — Kim
-* 26 May — Bank Holiday
+* 1 Sept — Kim
+* 8 Sept — Pauline
+* 15 Sept — Ali
+* 22 Sept — Mia
+* 22 Sept — Evalynne
