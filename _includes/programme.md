@@ -1,7 +1,7 @@
-## September 2025 programme
+## December 2025 programme
 
-* 01 Sept — Kim
-* 08 Sept — Pauline
-* 15 Sept — Ali
-* 22 Sept — Mia
-* 29 Sept — Evalynne
+* 1 Dec — Kim
+* 8 Dec — Helen
+* 15 Dec — Jeff
+* Christmas break
+* 5 Jan — John
