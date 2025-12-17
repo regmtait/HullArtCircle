@@ -15,7 +15,7 @@ permalink: /meetings/
 
 We meet at our studio every Monday evening. We offer no tuition, but we always have a portrait model and occasionally a life model.
 
-* Monday at Cottingham: 6:45—8:45pm — ([details](/contact/))
+* Monday at Cottingham: 6:30—8:30pm — ([details](/contact/))
 
 ### Programme
 
