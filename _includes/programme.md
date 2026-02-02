@@ -1,7 +1,6 @@
-## December 2025 programme
+## February 2026 programme
 
-* 1 Dec — Kim
-* 8 Dec — Helen
-* 15 Dec — Jeff
-* Christmas break
-* 5 Jan — John
+* 2 Feb — Jeff (portrait)
+* 9 Feb — Helen (portrait)
+* 16 Feb — Lee (portrait)
+* 23 Feb — Eric (portrait)
