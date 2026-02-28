@@ -1,6 +1,6 @@
-## February 2026 programme
+## March 2026 programme
 
-* 2 Feb — Jeff (portrait)
-* 9 Feb — Helen (portrait)
-* 16 Feb — Lee (portrait)
-* 23 Feb — Eric (portrait)
+* 2 March — Pauline (portrait)
+* 9 March — Dave (life, donation to MND)
+* 16 March — Evelynne (life, several poses)
+* 23 March — Helein (portrait)
