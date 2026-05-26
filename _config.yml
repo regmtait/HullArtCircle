@@ -7,12 +7,3 @@ baseurl: ""
 url: "https://www.hullartcircle.co.uk"
 github_username:  regmtait
 facebook_id:  HullArtCircle
-sass:
-  sass_dir: _sass
-  style: compressed
-collections:
-  - exhibitions
-  - exhibitionsactive
-
-# Build settings
-markdown: kramdown
